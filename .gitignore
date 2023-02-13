@@ -1,4 +1,5 @@
 # compiled output
+*/dist
 /backend-app/node_modules
 
 # Logs
